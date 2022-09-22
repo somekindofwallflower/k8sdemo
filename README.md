@@ -1,2 +1,2 @@
-# k8sdemo
- Example on how to use Kubernetes.
+# Kubernetes - The Easy Way
+This is a example on how to use Kubernetes. 
